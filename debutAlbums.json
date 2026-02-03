@@ -5,7 +5,7 @@
     "trackCount": 11,
     "releaseYear": 2011,
     "isStudioAlbum": true,
-    "coverUrl": "https://example.com/albums/fir.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/TheDrugInMeIsYou-Cover.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "trackCount": 13,
     "releaseYear": 2010,
     "isStudioAlbum": true,
-    "coverUrl": "https://example.com/albums/creatures.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/Creatures-Cover.jpg"
   }, 
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "trackCount": 12,
     "releaseYear": 2002,
     "isStudioAlbum": true,
-    "coverUrl": "https://example.com/albums/saturate.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/Saturate-Cover.jpg"
   }, 
   {
       "id": 4,
@@ -29,7 +29,7 @@
       "trackCount": 14,
       "releaseYear": 1999,
       "isStudioAlbum": true,
-      "coverUrl": "https://example.com/albums/slipknot.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/Slipknot-Cover.jpg"
   }, 
   {
       "id": 5,
@@ -37,7 +37,7 @@
       "trackCount": 13,
       "releaseYear": 1998,
       "isStudioAlbum": true,
-      "coverUrl": "https://example.com/albums/soad.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/SystemOfADown-Cover.jpg"
   },
   {
       "id": 6,
@@ -45,7 +45,7 @@
       "trackCount": 8,
       "releaseYear": 1980,
       "isStudioAlbum": true,
-      "coverUrl": "https://example.com/albums/maiden.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/IronMaiden-Cover.jpg"
   },
   {
       "id": 7,
@@ -53,7 +53,7 @@
       "trackCount": 10,
       "releaseYear": 2006,
       "isStudioAlbum": true,
-      "coverUrl": "https://example.com/albums/nightmares.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/Nightmares-Cover.jpg"
   }, 
   {
       "id": 8,
@@ -61,7 +61,7 @@
       "trackCount": 11,
       "releaseYear": 2017,
       "isStudioAlbum": true,
-      "coverUrl": "https://example.com/albums/poppy.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/PoppyComputer-Cover.jpg"
   },
   {
       "id": 9,
@@ -69,7 +69,7 @@
       "trackCount": 13,
       "releaseYear": 1969,
       "isStudioAlbum": true,
-      "coverUrl": "https://example.com/albums/alice.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/PrettiesForYou-Cover.jpg"
   },
   {
       "id": 10,
@@ -77,6 +77,6 @@
       "trackCount": 8,
       "releaseYear": 1973,
       "isStudioAlbum": true,
-      "coverUrl": "https://example.com/albums/aerosmith.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/Ysa-04/Bands/refs/heads/main/public/debutalbums/Aerosmith-Cover.jpg"
   }
 ]
