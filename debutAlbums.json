@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Drug in Me Is You",
+    "trackCount": 11,
+    "releaseYear": 2011,
+    "isStudioAlbum": true,
+    "coverUrl": "https://example.com/albums/fir.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Creatures",
+    "trackCount": 13,
+    "releaseYear": 2010,
+    "isStudioAlbum": true,
+    "coverUrl": "https://example.com/albums/creatures.jpg"
+  }, 
+  {
+    "id": 3,
+    "title": "Saturate",
+    "trackCount": 12,
+    "releaseYear": 2002,
+    "isStudioAlbum": true,
+    "coverUrl": "https://example.com/albums/saturate.jpg"
+  }, 
+  {
+      "id": 4,
+      "title": "Slipknot",
+      "trackCount": 14,
+      "releaseYear": 1999,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/slipknot.jpg"
+  }, 
+  {
+      "id": 5,
+      "title": "System of a Down",
+      "trackCount": 13,
+      "releaseYear": 1998,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/soad.jpg"
+  },
+  {
+      "id": 6,
+      "title": "Iron Maiden",
+      "trackCount": 8,
+      "releaseYear": 1980,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/maiden.jpg"
+  },
+  {
+      "id": 7,
+      "title": "Nightmares",
+      "trackCount": 10,
+      "releaseYear": 2006,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/nightmares.jpg"
+  }, 
+  {
+      "id": 8,
+      "title": "Poppy.Computer",
+      "trackCount": 11,
+      "releaseYear": 2017,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/poppy.jpg"
+  },
+  {
+      "id": 9,
+      "title": "Pretties for You",
+      "trackCount": 13,
+      "releaseYear": 1969,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/alice.jpg"
+  },
+  {
+      "id": 10,
+      "title": "Aerosmith",
+      "trackCount": 8,
+      "releaseYear": 1973,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/aerosmith.jpg"
+  }
+]

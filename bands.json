@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Falling in Reverse",
+    "description": "American rock band blending post-hardcore and metalcore with theatrical visuals and emotional lyrics.",
+    "yearFormed": 2008,
+    "isActive": true,
+    "formedDate": "2008-01-01",
+    "imageUrl": "https://example.com/images/falling-in-reverse.jpg",
+    "genreCategory": "metalcore",
+    "notableSongs": ["The Drug in Me Is You", "Popular Monster", "Voices in My Head"],
+    "debutAlbum": {
+      "id": 1,
+      "title": "The Drug in Me Is You",
+      "trackCount": 11,
+      "releaseYear": 2011,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/fir.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Motionless in White",
+    "description": "Metalcore band mixing gothic imagery and horror themes with modern heavy production.",
+    "yearFormed": 2005,
+    "isActive": true,
+    "formedDate": "2005-01-01",
+    "imageUrl": "https://example.com/images/miw.jpg",
+    "genreCategory": "metalcore",
+    "notableSongs": ["Reincarnate", "Another Life", "Voices"],
+    "debutAlbum": {
+      "id": 2,
+      "title": "Creatures",
+      "trackCount": 13,
+      "releaseYear": 2010,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/creatures.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Breaking Benjamin",
+    "description": "Alternative metal band known for melodic hooks and heavy guitar-driven sound.",
+    "yearFormed": 1999,
+    "isActive": true,
+    "formedDate": "1999-01-01",
+    "imageUrl": "https://example.com/images/bb.jpg",
+    "genreCategory": "alternative metal",
+    "notableSongs": ["The Diary of Jane", "Breath", "I Will Not Bow"],
+    "debutAlbum": {
+      "id": 3,
+      "title": "Saturate",
+      "trackCount": 12,
+      "releaseYear": 2002,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/saturate.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Slipknot",
+    "description": "Heavy metal band famous for masked performances and aggressive sound.",
+    "yearFormed": 1995,
+    "isActive": true,
+    "formedDate": "1995-01-01",
+    "imageUrl": "https://example.com/images/slipknot.jpg",
+    "genreCategory": "nu metal",
+    "notableSongs": ["Duality", "Psychosocial", "Before I Forget"],
+    "debutAlbum": {
+      "id": 4,
+      "title": "Slipknot",
+      "trackCount": 14,
+      "releaseYear": 1999,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/slipknot.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "System of a Down",
+    "description": "Experimental metal band mixing political themes and unpredictable structures.",
+    "yearFormed": 1994,
+    "isActive": false,
+    "formedDate": "1994-01-01",
+    "imageUrl": "https://example.com/images/soad.jpg",
+    "genreCategory": "alternative metal",
+    "notableSongs": ["Chop Suey!", "Toxicity", "B.Y.O.B."],
+    "debutAlbum": {
+      "id": 5,
+      "title": "System of a Down",
+      "trackCount": 13,
+      "releaseYear": 1998,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/soad.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Iron Maiden",
+    "description": "Legendary British heavy metal band known for epic storytelling.",
+    "yearFormed": 1975,
+    "isActive": true,
+    "formedDate": "1975-12-25",
+    "imageUrl": "https://example.com/images/maiden.jpg",
+    "genreCategory": "heavy metal",
+    "notableSongs": ["The Trooper", "Fear of the Dark", "Run to the Hills"],
+    "debutAlbum": {
+      "id": 6,
+      "title": "Iron Maiden",
+      "trackCount": 8,
+      "releaseYear": 1980,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/maiden.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Architects",
+    "description": "British metalcore band combining technical playing with emotional lyrics.",
+    "yearFormed": 2004,
+    "isActive": true,
+    "formedDate": "2004-01-01",
+    "imageUrl": "https://example.com/images/architects.jpg",
+    "genreCategory": "metalcore",
+    "notableSongs": ["Doomsday", "Animals", "Gone With the Wind"],
+    "debutAlbum": {
+      "id": 7,
+      "title": "Nightmares",
+      "trackCount": 10,
+      "releaseYear": 2006,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/nightmares.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Poppy",
+    "description": "Genre-bending artist blending metal, pop, and electronic music.",
+    "yearFormed": 2014,
+    "isActive": true,
+    "formedDate": "2014-01-01",
+    "imageUrl": "https://example.com/images/poppy.jpg",
+    "genreCategory": "experimental",
+    "notableSongs": ["Concrete", "I Disagree", "Bloodmoney"],
+    "debutAlbum": {
+      "id": 8,
+      "title": "Poppy.Computer",
+      "trackCount": 11,
+      "releaseYear": 2017,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/poppy.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Alice Cooper",
+    "description": "Shock rock pioneer known for theatrical horror-themed performances.",
+    "yearFormed": 1964,
+    "isActive": true,
+    "formedDate": "1964-01-01",
+    "imageUrl": "https://example.com/images/alice.jpg",
+    "genreCategory": "hard rock",
+    "notableSongs": ["School's Out", "Poison", "No More Mr. Nice Guy"],
+    "debutAlbum": {
+      "id": 9,
+      "title": "Pretties for You",
+      "trackCount": 13,
+      "releaseYear": 1969,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/alice.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Aerosmith",
+    "description": "Iconic American hard rock band blending blues and arena rock.",
+    "yearFormed": 1970,
+    "isActive": true,
+    "formedDate": "1970-01-01",
+    "imageUrl": "https://example.com/images/aerosmith.jpg",
+    "genreCategory": "hard rock",
+    "notableSongs": ["Dream On", "Walk This Way", "Crazy"],
+    "debutAlbum": {
+      "id": 10,
+      "title": "Aerosmith",
+      "trackCount": 8,
+      "releaseYear": 1973,
+      "isStudioAlbum": true,
+      "coverUrl": "https://example.com/albums/aerosmith.jpg"
+    }
+  }
+]
